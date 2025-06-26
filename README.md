@@ -8,7 +8,7 @@ Ce projet vise à déployer un cluster Kubernetes local avec un tableau de bord 
 1. Déployer un cluster Kubernetes local avec Minikube.
    - Installer Minikube : 
 [Kubernetes Dashboard KWANTWOO WILLIAMS.pdf](https://github.com/user-attachments/files/20925966/Kubernetes.Dashboard.KWANTWOO.WILLIAMS.pdf)
-[Kubernetes Dashboard KWANTWOO WILLIAMS.pdf](https://github.com/user-attachments/files/20925966/Kubernetes.Dashboard.KWANTWOO.WILLIAMS.pdf)
+
 
      choco install minikube
   
